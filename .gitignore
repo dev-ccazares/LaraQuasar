@@ -13,3 +13,37 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+
+/quasarapp/.DS_Store
+/quasarapp/.thumbs.db
+/quasarapp/node_modules
+
+# Quasar core related directories
+/quasarapp/.quasar
+/quasarapp/dist
+
+# Cordova related directories and files
+/quasarapp/src-cordova/node_modules
+/quasarapp/src-cordova/platforms
+/quasarapp/src-cordova/plugins
+/quasarapp/src-cordova/www
+
+# Capacitor related directories and files
+/quasarapp/src-capacitor/www
+/quasarapp/src-capacitor/node_modules
+
+# BEX related directories and files
+/quasarapp/src-bex/www
+/quasarapp/src-bex/js/core
+
+# Log files
+/quasarapp/npm-debug.log*
+/quasarapp/yarn-debug.log*
+/quasarapp/yarn-error.log*
+
+# Editor directories and files
+/quasarapp/.idea
+/quasarapp/*.suo
+/quasarapp/*.ntvs*
+/quasarapp/*.njsproj
+/quasarapp/*.sln
