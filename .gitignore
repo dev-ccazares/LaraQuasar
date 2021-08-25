@@ -21,6 +21,7 @@ yarn-error.log
 # Quasar core related directories
 /quasarapp/.quasar
 /quasarapp/dist
+/quasarapp/constants/Constants.js
 
 # Cordova related directories and files
 /quasarapp/src-cordova/node_modules
